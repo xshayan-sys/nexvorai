@@ -1,0 +1,15 @@
+{
+  "name": "nexvorai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "nexvorai — video editing & post-production agency site with a password-only admin console.",
+  "scripts": {
+    "dev": "NEXVORAI_LOCAL_STORE=${NEXVORAI_LOCAL_STORE:-1} node server.js",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

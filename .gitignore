@@ -1,0 +1,8 @@
+.env
+.env.local
+supabase-config.js
+node_modules/
+.vercel/
+.data/
+uploads/
+.DS_Store
